@@ -1,0 +1,407 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+MERGED from [com.android.support:support-v13:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\41e81c23ae7dc0ff21f39f9f08d1ea3d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\f5772aeac740ffb0131ea9dd8ab64240\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\83357e215bc1a42f013531f35cc41401\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\58bc4b4a0603a9fb8acfddb3db4b6cda\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\14e0317510269ad4799f7319777bc2d9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\70e81a53ec6f6e526570983239fce24f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\dd08bd8a2a112349b581879cc7061753\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\5bf0cc4caa46eec1973abeef89f5f475\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\39277a0ea8719193efea1d1d5ac03ae1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e040e50d4e8b9547ec8425e1b966230f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\d251d27f21ea3de01dae4e7b09e022e6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\2d474b0e9db80440332d531e874f1dd8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3ceaaf6d2da1707510dd8ba148665b5f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ebcf18066dae08c062f7584eecfb3787\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\003b291be51e18556754ba7e9ec7eeb3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a984b6e32f6c793c6a3351402f56cd5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3d0ea4bbcae5f022914ecb42cf5459dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\6961ced8ac994fbb80150c7fb505f600\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ac3056ede0df7d3e61813c6fbc0c5bf4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e511c08e94ba9d0ebedcd0c568b4189b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0ae2f33d09952b0901a4ab86c6ff90d8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\1913dbc8e3207b04814890ae89e672bb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\60ae67270820a9dcaf92bf77b6032613\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\306a6e201aaebe699c59e0b934d3ebe7\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ede3b66b0099d905cd3bba52066aa88d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\43158e3905acea780e72848a8a416954\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\6bf93965baea52c583760a7f02c8e6ce\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\18ddd8c682c16a34bee2e7393230096f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e9127587de82ba4a6afece385b23421d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\4309107cfb177ce88c86e88af988356a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a60c1504fab9e209ca15d0c9f6103fdd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a2433ac143f12585bae1a1e08f0893ee\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a276def36f8e17e3e816e477f14ac0d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\8c990bd0e515ace8c1722be2d620e934\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\af5453609fb8b72e19b0c72bbe257060\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\f60d24cfad2590f80c83a61f853bd0cb\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a5f6f4bf7f1325df423a6413c34b227a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\72c01776b79537d57206d0664aecbf58\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3dbae8bae3fc5fe2d34735428ed87a5c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\958c222a5bddab67a502f1eb9681116e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\10619b7697732775c5edd1a433cf1ba1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0cb474099de49d90a85a31f39584b7ff\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\831240ea75ab5e1ab09c7558dddd93d2\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a4b722c7c1bce0c76f6043a7d3fc57c5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cc77c96be9f1df59b055a86dac890ff6\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a427e68e94c979206f6d1fd965df3659\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\999768579eb32f508c38af1810be90a8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\219c4c946fc80ebea7d2c6bca8a0e29e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a3a7990118e991c3a55d651bca20d191\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cd19fea5ee682a11e62fc12cda8d88b9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\bfde054cd5bd12db6ebbf6bb0cfd1cab\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\533ac47e6666241b178a651396aa362d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3ae3aa4427e7d1cb7744ab958352a2fd\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\239115ca437f1343d72f702a52d744eb\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\67efbc99eeabb4c8bb5bec0de57e7c79\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cdc0a6d388f5ef81c62114102b3af730\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0cbfbfdff369d1e4af6d8ca996e9ac89\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e923fecec1ead46839efacd25deccfbb\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\fd8e61f4000e80dff38e01644b7ccd76\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ee104330d81136559737f67c9c3e5aae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\003ecfbc1b719d398d4c1efbf07a3b5b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\d60212e8eaef30f0fec29bb226f21e60\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+	package
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:17:5-47
+	android:versionName
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:21:22-64
+application
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:23:5-62:19
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\83357e215bc1a42f013531f35cc41401\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\83357e215bc1a42f013531f35cc41401\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\58bc4b4a0603a9fb8acfddb3db4b6cda\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\58bc4b4a0603a9fb8acfddb3db4b6cda\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\14e0317510269ad4799f7319777bc2d9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\14e0317510269ad4799f7319777bc2d9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\70e81a53ec6f6e526570983239fce24f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\70e81a53ec6f6e526570983239fce24f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\dd08bd8a2a112349b581879cc7061753\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\dd08bd8a2a112349b581879cc7061753\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\5bf0cc4caa46eec1973abeef89f5f475\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\5bf0cc4caa46eec1973abeef89f5f475\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\39277a0ea8719193efea1d1d5ac03ae1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\39277a0ea8719193efea1d1d5ac03ae1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e040e50d4e8b9547ec8425e1b966230f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e040e50d4e8b9547ec8425e1b966230f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\d251d27f21ea3de01dae4e7b09e022e6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\d251d27f21ea3de01dae4e7b09e022e6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3ceaaf6d2da1707510dd8ba148665b5f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3ceaaf6d2da1707510dd8ba148665b5f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ebcf18066dae08c062f7584eecfb3787\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ebcf18066dae08c062f7584eecfb3787\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\003b291be51e18556754ba7e9ec7eeb3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\003b291be51e18556754ba7e9ec7eeb3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a984b6e32f6c793c6a3351402f56cd5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a984b6e32f6c793c6a3351402f56cd5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3d0ea4bbcae5f022914ecb42cf5459dd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3d0ea4bbcae5f022914ecb42cf5459dd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\6961ced8ac994fbb80150c7fb505f600\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\6961ced8ac994fbb80150c7fb505f600\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ac3056ede0df7d3e61813c6fbc0c5bf4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ac3056ede0df7d3e61813c6fbc0c5bf4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e511c08e94ba9d0ebedcd0c568b4189b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e511c08e94ba9d0ebedcd0c568b4189b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0ae2f33d09952b0901a4ab86c6ff90d8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0ae2f33d09952b0901a4ab86c6ff90d8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\1913dbc8e3207b04814890ae89e672bb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\1913dbc8e3207b04814890ae89e672bb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\60ae67270820a9dcaf92bf77b6032613\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\60ae67270820a9dcaf92bf77b6032613\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ede3b66b0099d905cd3bba52066aa88d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ede3b66b0099d905cd3bba52066aa88d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\4309107cfb177ce88c86e88af988356a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\4309107cfb177ce88c86e88af988356a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a60c1504fab9e209ca15d0c9f6103fdd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a60c1504fab9e209ca15d0c9f6103fdd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a2433ac143f12585bae1a1e08f0893ee\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a2433ac143f12585bae1a1e08f0893ee\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a276def36f8e17e3e816e477f14ac0d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a276def36f8e17e3e816e477f14ac0d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\af5453609fb8b72e19b0c72bbe257060\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\af5453609fb8b72e19b0c72bbe257060\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\219c4c946fc80ebea7d2c6bca8a0e29e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\219c4c946fc80ebea7d2c6bca8a0e29e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a3a7990118e991c3a55d651bca20d191\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a3a7990118e991c3a55d651bca20d191\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cd19fea5ee682a11e62fc12cda8d88b9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cd19fea5ee682a11e62fc12cda8d88b9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cdc0a6d388f5ef81c62114102b3af730\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cdc0a6d388f5ef81c62114102b3af730\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0cbfbfdff369d1e4af6d8ca996e9ac89\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0cbfbfdff369d1e4af6d8ca996e9ac89\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e923fecec1ead46839efacd25deccfbb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e923fecec1ead46839efacd25deccfbb\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.autofill.app.MainActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:29:9-36:20
+	android:taskAffinity
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:30:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:34:27-74
+activity#com.example.android.autofill.app.commoncases.StandardSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:37:9-104
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:37:19-101
+activity#com.example.android.autofill.app.commoncases.StandardAutoCompleteSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:38:9-116
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:38:19-113
+activity#com.example.android.autofill.app.commoncases.VirtualSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:39:9-103
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:39:19-100
+activity#com.example.android.autofill.app.edgecases.VirtualCompatModeSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:40:9-111
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:40:19-108
+activity#com.example.android.autofill.app.WelcomeActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:41:9-85
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:41:19-82
+activity#com.example.android.autofill.app.edgecases.CreditCardActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:42:9-98
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:42:19-95
+activity#com.example.android.autofill.app.commoncases.CreditCardSpinnersActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:43:9-108
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:43:19-105
+activity#com.example.android.autofill.app.commoncases.EmailComposeActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:44:9-102
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:44:19-99
+activity#com.example.android.autofill.app.commoncases.CreditCardCompoundViewActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:45:9-112
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:45:19-109
+activity#com.example.android.autofill.app.commoncases.CreditCardDatePickerActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:46:9-110
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:46:19-107
+activity#com.example.android.autofill.app.edgecases.CreditCardAntiPatternActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:47:9-109
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:47:19-106
+activity#com.example.android.autofill.app.edgecases.MultiplePartitionsActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:48:9-50:72
+	android:theme
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:50:13-69
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:49:13-97
+activity#com.example.android.autofill.app.commoncases.WebViewSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:51:9-103
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:51:19-100
+activity#com.example.android.autofill.app.edgecases.MultipleStepsSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:52:9-107
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:52:19-104
+activity#com.example.android.autofill.app.edgecases.MultipleStepsCreditCardActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:53:9-111
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:53:19-108
+activity#com.example.android.autofill.app.commoncases.RecyclerViewActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:54:9-102
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:54:19-99
+activity#com.example.android.autofill.app.antipatterns.BadViewStructureCreationSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:55:9-121
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:55:19-118
+activity#com.example.android.autofill.app.antipatterns.UsernameOnlyActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:56:9-103
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:56:19-100
+activity#com.example.android.autofill.app.antipatterns.PasswordOnlyActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:57:9-103
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:57:19-100
+activity#com.example.android.autofill.app.antipatterns.HintlessSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:58:9-105
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:58:19-102
+activity#com.example.android.autofill.app.antipatterns.CallbackLessAutoCompleteSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:59:9-121
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:59:19-118
+activity#com.example.android.autofill.app.edgecases.CustomThemeSignInActivity
+ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:60:9-61:75
+	android:theme
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:61:19-72
+	android:name
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:60:19-102
+uses-sdk
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\41e81c23ae7dc0ff21f39f9f08d1ea3d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v13:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\41e81c23ae7dc0ff21f39f9f08d1ea3d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\f5772aeac740ffb0131ea9dd8ab64240\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\f5772aeac740ffb0131ea9dd8ab64240\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\83357e215bc1a42f013531f35cc41401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\83357e215bc1a42f013531f35cc41401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\58bc4b4a0603a9fb8acfddb3db4b6cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\58bc4b4a0603a9fb8acfddb3db4b6cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\14e0317510269ad4799f7319777bc2d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\14e0317510269ad4799f7319777bc2d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\70e81a53ec6f6e526570983239fce24f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\70e81a53ec6f6e526570983239fce24f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\dd08bd8a2a112349b581879cc7061753\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\dd08bd8a2a112349b581879cc7061753\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\5bf0cc4caa46eec1973abeef89f5f475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\5bf0cc4caa46eec1973abeef89f5f475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\39277a0ea8719193efea1d1d5ac03ae1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\39277a0ea8719193efea1d1d5ac03ae1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e040e50d4e8b9547ec8425e1b966230f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e040e50d4e8b9547ec8425e1b966230f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\d251d27f21ea3de01dae4e7b09e022e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\d251d27f21ea3de01dae4e7b09e022e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\2d474b0e9db80440332d531e874f1dd8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\2d474b0e9db80440332d531e874f1dd8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3ceaaf6d2da1707510dd8ba148665b5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3ceaaf6d2da1707510dd8ba148665b5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ebcf18066dae08c062f7584eecfb3787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ebcf18066dae08c062f7584eecfb3787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\003b291be51e18556754ba7e9ec7eeb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\003b291be51e18556754ba7e9ec7eeb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a984b6e32f6c793c6a3351402f56cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a984b6e32f6c793c6a3351402f56cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3d0ea4bbcae5f022914ecb42cf5459dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3d0ea4bbcae5f022914ecb42cf5459dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\6961ced8ac994fbb80150c7fb505f600\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\6961ced8ac994fbb80150c7fb505f600\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ac3056ede0df7d3e61813c6fbc0c5bf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ac3056ede0df7d3e61813c6fbc0c5bf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e511c08e94ba9d0ebedcd0c568b4189b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e511c08e94ba9d0ebedcd0c568b4189b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0ae2f33d09952b0901a4ab86c6ff90d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0ae2f33d09952b0901a4ab86c6ff90d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\1913dbc8e3207b04814890ae89e672bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\1913dbc8e3207b04814890ae89e672bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\60ae67270820a9dcaf92bf77b6032613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\60ae67270820a9dcaf92bf77b6032613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\306a6e201aaebe699c59e0b934d3ebe7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\306a6e201aaebe699c59e0b934d3ebe7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ede3b66b0099d905cd3bba52066aa88d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ede3b66b0099d905cd3bba52066aa88d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\43158e3905acea780e72848a8a416954\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\43158e3905acea780e72848a8a416954\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\6bf93965baea52c583760a7f02c8e6ce\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\6bf93965baea52c583760a7f02c8e6ce\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\18ddd8c682c16a34bee2e7393230096f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\18ddd8c682c16a34bee2e7393230096f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e9127587de82ba4a6afece385b23421d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e9127587de82ba4a6afece385b23421d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\4309107cfb177ce88c86e88af988356a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\4309107cfb177ce88c86e88af988356a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a60c1504fab9e209ca15d0c9f6103fdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a60c1504fab9e209ca15d0c9f6103fdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a2433ac143f12585bae1a1e08f0893ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a2433ac143f12585bae1a1e08f0893ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a276def36f8e17e3e816e477f14ac0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\7a276def36f8e17e3e816e477f14ac0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\8c990bd0e515ace8c1722be2d620e934\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\8c990bd0e515ace8c1722be2d620e934\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\af5453609fb8b72e19b0c72bbe257060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\af5453609fb8b72e19b0c72bbe257060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\f60d24cfad2590f80c83a61f853bd0cb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\f60d24cfad2590f80c83a61f853bd0cb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a5f6f4bf7f1325df423a6413c34b227a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a5f6f4bf7f1325df423a6413c34b227a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\72c01776b79537d57206d0664aecbf58\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\72c01776b79537d57206d0664aecbf58\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3dbae8bae3fc5fe2d34735428ed87a5c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3dbae8bae3fc5fe2d34735428ed87a5c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\958c222a5bddab67a502f1eb9681116e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\958c222a5bddab67a502f1eb9681116e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\10619b7697732775c5edd1a433cf1ba1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\10619b7697732775c5edd1a433cf1ba1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0cb474099de49d90a85a31f39584b7ff\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0cb474099de49d90a85a31f39584b7ff\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\831240ea75ab5e1ab09c7558dddd93d2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\831240ea75ab5e1ab09c7558dddd93d2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a4b722c7c1bce0c76f6043a7d3fc57c5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a4b722c7c1bce0c76f6043a7d3fc57c5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cc77c96be9f1df59b055a86dac890ff6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cc77c96be9f1df59b055a86dac890ff6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a427e68e94c979206f6d1fd965df3659\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a427e68e94c979206f6d1fd965df3659\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\999768579eb32f508c38af1810be90a8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\999768579eb32f508c38af1810be90a8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\219c4c946fc80ebea7d2c6bca8a0e29e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\219c4c946fc80ebea7d2c6bca8a0e29e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a3a7990118e991c3a55d651bca20d191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\a3a7990118e991c3a55d651bca20d191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cd19fea5ee682a11e62fc12cda8d88b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cd19fea5ee682a11e62fc12cda8d88b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\bfde054cd5bd12db6ebbf6bb0cfd1cab\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\bfde054cd5bd12db6ebbf6bb0cfd1cab\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\533ac47e6666241b178a651396aa362d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\533ac47e6666241b178a651396aa362d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3ae3aa4427e7d1cb7744ab958352a2fd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\3ae3aa4427e7d1cb7744ab958352a2fd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\239115ca437f1343d72f702a52d744eb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\239115ca437f1343d72f702a52d744eb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\67efbc99eeabb4c8bb5bec0de57e7c79\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\67efbc99eeabb4c8bb5bec0de57e7c79\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cdc0a6d388f5ef81c62114102b3af730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\cdc0a6d388f5ef81c62114102b3af730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0cbfbfdff369d1e4af6d8ca996e9ac89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\0cbfbfdff369d1e4af6d8ca996e9ac89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e923fecec1ead46839efacd25deccfbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\e923fecec1ead46839efacd25deccfbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\fd8e61f4000e80dff38e01644b7ccd76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\fd8e61f4000e80dff38e01644b7ccd76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ee104330d81136559737f67c9c3e5aae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\ee104330d81136559737f67c9c3e5aae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\003ecfbc1b719d398d4c1efbf07a3b5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\003ecfbc1b719d398d4c1efbf07a3b5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\d60212e8eaef30f0fec29bb226f21e60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\fatol\.gradle\caches\transforms-2\files-2.1\d60212e8eaef30f0fec29bb226f21e60\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatol\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
